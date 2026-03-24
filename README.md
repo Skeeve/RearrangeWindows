@@ -14,7 +14,7 @@ For easy compiling I provided the `build.sh` script.
 
 Move the compiled `RearrangeWindows.app` to your `Applications` folder.
 
-Then create a file `~/Library/Application Support/RearrangeWindows/RearrangeWindows.conf`.
+Then create a file `~/'Library/Application Support/RearrangeWindows/RearrangeWindows.conf'`.
 
 This file should contain the names of the processes whose main window positions you want to store.
 
